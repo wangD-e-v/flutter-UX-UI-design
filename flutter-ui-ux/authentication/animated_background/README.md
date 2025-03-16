@@ -4,7 +4,7 @@ You can find the entire collection of apps in [this blog post](https://dev.to/cr
 
 ## Animated Background
 
-### [Original design](https://www.uplabs.com/posts/ios-login-template-freebie) by [Mike Ivanchyshyn](https://www.uplabs.com/imvasyl):
+
 
 ![Original design](original-design.gif)
 
